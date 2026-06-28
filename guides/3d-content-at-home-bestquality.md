@@ -227,7 +227,6 @@ Just change the server string and the [share] section according to your needs, t
   min receivefile size = 16384
   aio read size = 16384
   aio write size = 16384
-  use sendfile = yes
   getwd cache = true
 
 # Using the following configurations as a template allows you to add
