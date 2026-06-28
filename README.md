@@ -13,7 +13,8 @@ Those are available from a separate repo: https://github.com/Olsro/reddit-ipod-g
 
 # List of all available guides
 *Guides are ordered descendently by their release date.*
-... Coming soon !
+
+[Playing 3D Content at home with flexibility & the best possible quality](guides/3d-content-at-home-bestquality.md)
 
 
 ## Thanks for reading ! You can also star this repo and follow it if you have found something valuable to you here.
