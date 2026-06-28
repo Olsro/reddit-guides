@@ -4,7 +4,7 @@ Date: 28 June 2026
 ## Introduction
 Lately I was fond on about getting an home 3D cinema experience and I studied during the last weeks the solutions & ways to achieve a premium home 3D experience. There's plenty of edge cases and things to know to get the best experience, so I am writing this paper hoping it will save you plenty of yours by not needing to go through what I had to go to get a proper view of the home 3D ecosystem and how you can do it by yourself in 2026.
 
-Unfortunately, home 3D is becoming more than ever a niche so it means new edge cases will appear and chances are the support is getting only narrower with manufacturers, softwares, etc. New 3D content on blu-rays is also rare these days. If you live in Europe, you may want to support Turbine: https://turbine-shop.de/en/CATALOGUE/Technik/Blu-ray-3D/ which is the last editor still making regular new 3D releases.
+Unfortunately, home 3D is becoming more than ever a niche so it means new issues will arise over time and chances are the support is getting only narrower with manufacturers, softwares, etc. New 3D content on blu-rays is also rare these days. If you live in Europe, you may want to support Turbine: https://turbine-shop.de/en/CATALOGUE/Technik/Blu-ray-3D/ which is the last editor still making regular new 3D releases.
 
 But since the 20 last years, hundred of movies had a 3D release and you can find new old stock & second-hand discs often for pretty cheap these days to start building your own collection.
 
